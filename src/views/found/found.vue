@@ -39,6 +39,7 @@
             <router-view></router-view>
         <!--<div class="wrapper clear">-->
             <!--<div class="wrapper-left">-->
+        <!--<div class="wrapper-left">-->
         <!--<div class="zg-nav-center">-->
         <!--<div class="page-title">-->
             <!--<i class="el-icon-tickets"></i>-->
