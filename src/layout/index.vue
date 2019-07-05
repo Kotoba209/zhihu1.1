@@ -13,6 +13,7 @@
                     <!--<li><a href="#">发现</a></li>-->
                     <li><router-link to="/response">等你来答</router-link></li>
                     <!--<li><a href="#">等你来答</a></li>-->
+                    <!--<li><a href="#">等你来答</a></li>-->
                 </ul>
             </div>
             <div id="searchbar">

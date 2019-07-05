@@ -417,7 +417,6 @@ div.listFooter span.up{
 
 div.listFooter span.down{
     display: inline-block;
-    /*width: 32px;*/
     height: 32px;
     text-align: center;
     line-height: 32px;

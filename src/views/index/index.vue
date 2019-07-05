@@ -28,7 +28,6 @@
                             <div class="listArticle clear">
                                 <div class="image">
                                     <img :src="item.thumb_pic"/>
-                                    <!--{{ item.thumb_pic }}-->
                                 </div>
                                 <div class="clear text-wrapper">
                                     <span class="text">{{ item.paragraph }}</span>
