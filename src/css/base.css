@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 13px;
+    line-height: 1.7;
+}
+.clear:after{
+    display: block;
+    content: '';
+    clear: both;
+}
+ul,li,a{
+    list-style: none;
+    text-decoration: none;
+}
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+    font-size: 14px;
+    outline: 0;
+}
